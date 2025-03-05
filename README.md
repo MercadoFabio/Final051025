@@ -162,10 +162,16 @@ Desarrollar una aplicación en Angular que permita a los usuarios buscar y reser
     - Añade detalles de los pasajeros usando el `FormArray` dinámico.
     - Hace clic en "Confirmar Reserva" para reservar el pasaje.
 3. **Ver Reservas**:
+
     - El usuario navega a la página de listado de reservas para ver todas las reservas.
 
 ---
+---
+###Mockups:
+![WhatsApp Image 2025-03-04 at 10 33 47](https://github.com/user-attachments/assets/2b8f1930-1a06-4299-938d-2986de77adef)
+![WhatsApp Image 2025-03-04 at 10 33 38](https://github.com/user-attachments/assets/2bc5a814-8c5d-4be1-90a5-46bdb9bb7a0d)
 
+---
 ### Puntajes:
 - Navegación y Rutas: **5 puntos**
 - Estilos con Bootstrap: **10 puntos**
